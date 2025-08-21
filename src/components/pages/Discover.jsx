@@ -19,7 +19,7 @@ const Discover = () => {
             },1000)
         }
     }
-    console.log(users)
+    // console.log(users)
 
     return (
         <div className="min-h-screen bg-gradient-to-b from-slate-50 to-white">
